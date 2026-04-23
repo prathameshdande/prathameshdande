@@ -5,8 +5,11 @@ Full Stack Developer (MERN + Next.js) | Web3 Developer (Solana)
 📍 Pune, Maharashtra, India
 
 📧 [prathameshdande7@gmail.com](mailto:prathameshdande7@gmail.com),
+
 💻 [https://github.com/prathameshdande](https://github.com/prathameshdande),
+
 🔗 [https://www.linkedin.com/in/prathamesh-dande-a2b14a32b](https://www.linkedin.com/in/prathamesh-dande-a2b14a32b),
+
 🌐 [https://portfolio-website-gray-six-30.vercel.app](https://portfolio-website-gray-six-30.vercel.app)
 
 ---
