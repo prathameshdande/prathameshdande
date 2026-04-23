@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Prathamesh Dande 👋
 
-<!--
-**prathameshdande/prathameshdande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (MERN + Next.js) | Web3 Developer (Solana)
 
-Here are some ideas to get you started:
+📍 Pune, Maharashtra, India
+📧 [prathameshdande7@gmail.com](mailto:prathameshdande7@gmail.com)
+💻 [https://github.com/prathameshdande](https://github.com/prathameshdande)
+🔗 [https://www.linkedin.com/in/prathamesh-dande-a2b14a32b](https://www.linkedin.com/in/prathamesh-dande-a2b14a32b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+Full Stack Developer with hands-on experience building scalable and secure web applications using React.js, Next.js, Node.js, and MongoDB. Skilled in REST API development, JWT authentication, and Web3 development using Solana Web3.js.
+
+---
+
+## Skills
+
+**Frontend:** React.js, Next.js, JavaScript, HTML, CSS, Tailwind CSS
+**Backend:** Node.js, Express.js, REST APIs, JWT Authentication
+**Database:** MongoDB, MySQL, PostgreSQL
+**Web3:** Solana, Solana Web3.js, Wallet Adapter, SPL Tokens
+**Tools:** Git, GitHub, Postman, Vercel, Netlify, Render, AWS
+**Languages:** JavaScript, Python, Java
+
+---
+
+## Projects
+
+* PrathsGPT
+* GigFlow – Freelance Platform
+* Second Brain App
+* Course Selling Platform
+* Solana Wallet Adapter UI
+* Solana Token Launchpad (DApp)
+
+---
+
+## Education
+
+* MCA (Pursuing) – Sinhgad Institute of Management, Pune
+* B.Sc Computer Science – Shankarlal Khandelwal College, Akola
+
+---
+
+## Certification
+
+* 100xDevs Cohort
