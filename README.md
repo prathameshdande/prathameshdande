@@ -3,8 +3,9 @@
 Full Stack Developer (MERN + Next.js) | Web3 Developer (Solana)
 
 📍 Pune, Maharashtra, India
-📧 [prathameshdande7@gmail.com](mailto:prathameshdande7@gmail.com)
-💻 [https://github.com/prathameshdande](https://github.com/prathameshdande)
+
+📧 [prathameshdande7@gmail.com](mailto:prathameshdande7@gmail.com),
+💻 [https://github.com/prathameshdande](https://github.com/prathameshdande),
 🔗 [https://www.linkedin.com/in/prathamesh-dande-a2b14a32b](https://www.linkedin.com/in/prathamesh-dande-a2b14a32b)
 
 ---
@@ -28,7 +29,7 @@ Full Stack Developer with hands-on experience building scalable and secure web a
 
 ## Projects
 
-* PrathsGPT
+* PrathsGPT (Working On)
 * GigFlow – Freelance Platform
 * Second Brain App
 * Course Selling Platform
