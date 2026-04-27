@@ -73,9 +73,15 @@ I am a passionate Full Stack Developer with hands-on experience building scalabl
 
 <div align="center">
   
-  [![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=radium&hide_border=true)](https://github.com/prathameshdande)
+  <a href="https://github.com/prathameshdande">
+    <img src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=radium&hide_border=true" alt="Prathamesh's GitHub Stats" />
+  </a>
   
-  [![Prathamesh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=radium&hide_border=true)](https://github.com/prathameshdande)
+  <br/><br/>
+  
+  <a href="https://github.com/prathameshdande">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=radium&hide_border=true" alt="Prathamesh's GitHub Streak" />
+  </a>
   
 </div>
 
@@ -89,3 +95,4 @@ I am a passionate Full Stack Developer with hands-on experience building scalabl
 ## 📜 Certifications
 
 * 🏆 **100xDevs Cohort**
+* 
