@@ -6,7 +6,7 @@
 
 📍 *Based in Pune, Maharashtra, India*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://winfirst-portfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://winfirst-portfolio.vercel.app/)
 [![Freelance Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-gray-six-30.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamesh-dande-a2b14a32b)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathameshdande7@gmail.com)
