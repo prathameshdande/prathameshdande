@@ -76,16 +76,14 @@
 
 <div align="center">
 
-  <a href="https://github.com/prathameshdande">
-    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub Stats" />
-    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  </p>
 
-  <br />
-
-  <a href="https://github.com/prathameshdande">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  </p>
 
 </div>
 
