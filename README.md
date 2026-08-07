@@ -1,6 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner / Title -->
   <h1>Hi there, I'm Prathamesh Dande 👋</h1>
   
   <h3>🚀 Full Stack Developer (MERN) | Next.js Developer | Web3 Developer (Solana)</h3>
@@ -9,7 +8,6 @@
     📍 <b>Pune, Maharashtra, India</b>
   </p>
 
-  <!-- Badges Row -->
   <p align="center">
     <a href="https://www.linkedin.com/in/prathamesh-dande-a2b14a32b" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -68,9 +66,10 @@ I'm a passionate **Full Stack Developer** specializing in the **MERN Stack** and
 
 ## 📊 GitHub Analytics
 
-| GitHub Stats | Top Languages |
-| :-: | :-: |
-| ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
 
 <br />
 
