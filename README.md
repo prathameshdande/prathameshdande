@@ -1,121 +1,129 @@
-# Hi there, I'm Prathamesh Dande 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prathameshdande&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+  <!-- Header Banner / Title -->
+  <h1>Hi there, I'm <a href="https://github.com/prathameshdande">Prathamesh Dande</a> 👋</h1>
+  
+  <h3>🚀 Full Stack Developer (MERN) | Next.js Developer | Web3 Developer (Solana)</h3>
 
-### 🚀 Full Stack Developer (MERN) | Next.js Developer | Web3 Developer (Solana)
+  <p align="center">
+    📍 <b>Pune, Maharashtra, India</b>
+  </p>
 
-📍 Pune, Maharashtra, India
+  <!-- Badges Row -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/prathamesh-dande-a2b14a32b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://winfirst-portfolio.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="mailto:prathameshdande7@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=prathameshdande&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer specializing in the **MERN Stack** and **Web3 development on Solana**.
+<p align="left">
+  I'm a passionate <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b> and <b>Web3 development on Solana</b>. I enjoy building scalable web applications, secure REST APIs, and decentralized applications with clean UI/UX.
+</p>
 
-I enjoy building scalable web applications, secure REST APIs, and decentralized applications with clean UI/UX.
-
-* 🔭 Currently building **PrathsGPT**
-* 🌱 Learning **Advanced Solana Development**, **Next.js**, and **System Design**
-* 💻 Experienced with **MERN Stack**, **JWT Authentication**, **MongoDB**, **PostgreSQL**, and **REST APIs**
-* ⚡ Interested in **Blockchain**, **AI**, **SaaS**, and **Cloud Technologies**
-* 🏏 Fun fact: I enjoy watching cricket and following the IPL
+- 🔭 **Currently Building:** [PrathsGPT](https://github.com/prathameshdande)
+- 🌱 **Learning & Improving:** Advanced Solana Development, Next.js, and System Design
+- 💻 **Core Expertise:** MERN Stack, JWT Authentication, MongoDB, PostgreSQL, REST APIs
+- ⚡ **Interests:** Blockchain, AI, SaaS, Cloud Technologies
+- 🏏 **Fun Fact:** I enjoy watching cricket and closely following the IPL!
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=7" alt="Frontend Stack" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma&perline=5" alt="Backend Stack" /> |
+| **Web3** | <img src="https://skillicons.dev/icons?i=solidity,web3&perline=2" alt="Web3 Stack" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,aws&perline=7" alt="Tools Stack" /> |
 
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma" />
-</p>
-
-### Web3
-
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity,web3" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,aws" />
-</p>
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project                  | Description                                                            | Tech Stack                   |
-| ------------------------ | ---------------------------------------------------------------------- | ---------------------------- |
-| 🤖 **PrathsGPT**         | AI-powered personal assistant built using modern web technologies.     | MERN, Next.js                |
-| 💼 **GigFlow**           | Freelance marketplace with authentication, bidding, and hiring system. | React, Node.js, MongoDB      |
-| 🪙 **Solana Launchpad**  | Launch and manage SPL Tokens on Solana blockchain.                     | Solana, Next.js              |
-| 👛 **Wallet Adapter UI** | Responsive wallet connection interface for Web3 applications.          | React, Solana Wallet Adapter |
-| 🧠 **Second Brain App**  | Save and organize YouTube, Twitter, and useful resources.              | MERN Stack                   |
-| 📚 **Course Platform**   | Online learning platform with admin dashboard and authentication.      | Node.js, Express, MongoDB    |
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **PrathsGPT** | AI-powered personal assistant built using modern web technologies. | `MERN` `Next.js` | [Repo](https://github.com/prathameshdande) |
+| 💼 **GigFlow** | Freelance marketplace featuring authentication, bidding, and hiring. | `React` `Node.js` `MongoDB` | [Repo](https://github.com/prathameshdande/gigflow) |
+| 🪙 **Solana Launchpad** | Platform to launch and manage SPL Tokens on the Solana blockchain. | `Solana` `Next.js` | [Repo](https://github.com/prathameshdande/Solana-Token-Launchpad) |
+| 👛 **Wallet Adapter UI** | Responsive wallet connection interface for Web3 applications. | `React` `Solana` | [Repo](https://github.com/prathameshdande/Wallet_adapter) |
+| 🧠 **Second Brain App** | Organize and archive YouTube videos, tweets, and online resources. | `MERN Stack` | [Repo](https://github.com/prathameshdande) |
+| 📚 **Course Platform** | Online learning platform complete with an admin dashboard. | `Node.js` `Express` `MongoDB` | [Repo](https://github.com/prathameshdande) |
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <a href="https://github.com/prathameshdande">
+    <img height="175em" src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub Stats" />
+    <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Top Languages" />
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <br />
+
+  <a href="https://github.com/prathameshdande">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+</div>
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-* 🎓 **Master of Computer Applications (MCA)**
-  Sinhgad Institute of Management, Pune
-
-* 🎓 **Bachelor of Science (Computer Science)**
-  Shankarlal Khandelwal College, Akola
-
----
-
-## 📜 Certifications
-
-* 🏆 100xDevs Full Stack Web Development Cohort
-* 🏆 MERN Stack Development
-* 🏆 Web3 Development (Solana)
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:prathameshdande7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/prathamesh-dande-a2b14a32b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://winfirst-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/prathameshdande" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Education</h3>
+      <ul>
+        <li><b>Master of Computer Applications (MCA)</b><br/><i>Sinhgad Institute of Management, Pune</i></li>
+        <br/>
+        <li><b>Bachelor of Science (Computer Science)</b><br/><i>Shankarlal Khandelwal College, Akola</i></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Certifications</h3>
+      <ul>
+        <li><b>100xDevs</b> Full Stack Web Development Cohort</li>
+        <li><b>MERN Stack Development</b> Certification</li>
+        <li><b>Web3 Development (Solana)</b> Certification</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### ⭐ If you like my work, don't forget to star my repositories!
+<div align="center">
+
+  <h3>⭐ If you like my work, feel free to explore and star my repositories!</h3>
+
+  <p>
+    <a href="https://github.com/prathameshdande">
+      <img src="https://img.shields.io/github/stars/prathameshdande?style=social" alt="GitHub Stars" />
+    </a>
+  </p>
+
+</div>
