@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner / Title -->
-  <h1>Hi there, I'm <a href="https://github.com/prathameshdande">Prathamesh Dande</a> 👋</h1>
+  <h1>Hi there, I'm Prathamesh Dande 👋</h1>
   
   <h3>🚀 Full Stack Developer (MERN) | Next.js Developer | Web3 Developer (Solana)</h3>
 
@@ -32,11 +32,9 @@
 
 ## 👨‍💻 About Me
 
-<p align="left">
-  I'm a passionate <b>Full Stack Developer</b> specializing in the <b>MERN Stack</b> and <b>Web3 development on Solana</b>. I enjoy building scalable web applications, secure REST APIs, and decentralized applications with clean UI/UX.
-</p>
+I'm a passionate **Full Stack Developer** specializing in the **MERN Stack** and **Web3 development on Solana**. I enjoy building scalable web applications, secure REST APIs, and decentralized applications with clean UI/UX.
 
-- 🔭 **Currently Building:** [PrathsGPT](https://github.com/prathameshdande)
+- 🔭 **Currently Building:** PrathsGPT
 - 🌱 **Learning & Improving:** Advanced Solana Development, Next.js, and System Design
 - 💻 **Core Expertise:** MERN Stack, JWT Authentication, MongoDB, PostgreSQL, REST APIs
 - ⚡ **Interests:** Blockchain, AI, SaaS, Cloud Technologies
@@ -46,71 +44,49 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
-
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=7" alt="Frontend Stack" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma&perline=5" alt="Backend Stack" /> |
-| **Web3** | <img src="https://skillicons.dev/icons?i=solidity,web3&perline=2" alt="Web3 Stack" /> |
-| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,aws&perline=7" alt="Tools Stack" /> |
-
-</div>
+| **Frontend** | ![](https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&perline=7) |
+| **Backend** | ![](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma&perline=5) |
+| **Web3** | ![](https://skillicons.dev/icons?i=solidity,web3&perline=2) |
+| **Tools & Cloud** | ![](https://skillicons.dev/icons?i=git,github,postman,vscode,vercel,netlify,aws&perline=7) |
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🤖 **PrathsGPT** | AI-powered personal assistant built using modern web technologies. | `MERN` `Next.js` | [Repo](https://github.com/prathameshdande) |
-| 💼 **GigFlow** | Freelance marketplace featuring authentication, bidding, and hiring. | `React` `Node.js` `MongoDB` | [Repo](https://github.com/prathameshdande/gigflow) |
-| 🪙 **Solana Launchpad** | Platform to launch and manage SPL Tokens on the Solana blockchain. | `Solana` `Next.js` | [Repo](https://github.com/prathameshdande/Solana-Token-Launchpad) |
-| 👛 **Wallet Adapter UI** | Responsive wallet connection interface for Web3 applications. | `React` `Solana` | [Repo](https://github.com/prathameshdande/Wallet_adapter) |
-| 🧠 **Second Brain App** | Organize and archive YouTube videos, tweets, and online resources. | `MERN Stack` | [Repo](https://github.com/prathameshdande) |
-| 📚 **Course Platform** | Online learning platform complete with an admin dashboard. | `Node.js` `Express` `MongoDB` | [Repo](https://github.com/prathameshdande) |
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **PrathsGPT** | AI-powered personal assistant built using modern web technologies. | `MERN` `Next.js` |
+| 💼 **GigFlow** | Freelance marketplace featuring authentication, bidding, and hiring. | `React` `Node.js` `MongoDB` |
+| 🪙 **Solana Launchpad** | Platform to launch and manage SPL Tokens on the Solana blockchain. | `Solana` `Next.js` |
+| 👛 **Wallet Adapter UI** | Responsive wallet connection interface for Web3 applications. | `React` `Solana` |
+| 🧠 **Second Brain App** | Organize and archive YouTube videos, tweets, and online resources. | `MERN Stack` |
+| 📚 **Course Platform** | Online learning platform complete with an admin dashboard. | `Node.js` `Express` `MongoDB` |
 
 ---
 
 ## 📊 GitHub Analytics
 
+| GitHub Stats | Top Languages |
+| :-: | :-: |
+| ![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true) |
+
+<br />
+
 <div align="center">
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=prathameshdande&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Prathamesh's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdande&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-  </p>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshdande&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎓 Education</h3>
-      <ul>
-        <li><b>Master of Computer Applications (MCA)</b><br/><i>Sinhgad Institute of Management, Pune</i></li>
-        <br/>
-        <li><b>Bachelor of Science (Computer Science)</b><br/><i>Shankarlal Khandelwal College, Akola</i></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏆 Certifications</h3>
-      <ul>
-        <li><b>100xDevs</b> Full Stack Web Development Cohort</li>
-        <li><b>MERN Stack Development</b> Certification</li>
-        <li><b>Web3 Development (Solana)</b> Certification</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 🎓 Education | 🏆 Certifications |
+| :--- | :--- |
+| **Master of Computer Applications (MCA)**<br/>*Sinhgad Institute of Management, Pune* | **100xDevs** Full Stack Web Development Cohort |
+| **Bachelor of Science (Computer Science)**<br/>*Shankarlal Khandelwal College, Akola* | **MERN Stack Development** Certification |
+| | **Web3 Development (Solana)** Certification |
 
 ---
 
